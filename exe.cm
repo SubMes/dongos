@@ -1,0 +1,7 @@
+exe;
+;rule = 'close'
+    ('close;;')
+        'terminate'
+    'terminate'=taskmanager.exe
+;;
+    {'rule = terminate'};;

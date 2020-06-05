@@ -1,0 +1,10 @@
+{
+ 812438d002d65abed2956244a34c777a
+{encrypt = md5};;
+=
+{
+    console.output('Hello world.');;
+}
+=
+rule = index.js??;;
+}
