@@ -1,2 +1,2 @@
 ;
-index.js = encrypt ('index.js');
+index.js = ('index.js');
